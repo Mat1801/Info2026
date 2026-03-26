@@ -1,0 +1,36 @@
+## ☕ **Brand Persona: Math's Coffee USA**
+
+If **Math's Coffee** were a person, they would be the ultimate New Yorker—the one who knows the best vinyl shop in the West Village but still has a studio in a warehouse in Williamsburg. They are a "Creative Intellectual" who values substance over hype.
+
+* **The Vibe:** Effortless, curated, and timeless. A mix of industrial grit and high-end gallery culture.
+* **The Personality:** Quietly confident. They don't need to shout to be noticed. They are the friend who can talk about Colombian coffee farm altitudes and 1960s jazz in the same breath.
+* **The Look:** A vintage black cashmere overcoat, a worn-in white tee, and leather boots. It’s the smell of old books, roasted beans, and rain on Manhattan pavement.
+* **The Voice:** Sophisticated but soulful. Every word feels intentional—like an invitation into a private club.
+
+---
+
+## 🎨 **1. The "Studio & Cellar" Palette**
+This palette balances the raw iron of Brooklyn with the refined warmth of a West Village library.
+
+| Color | HEX Code | Role |
+| :--- | :--- | :--- |
+| **Sidewalk Charcoal** | `#262626` | **The Foundation.** NYC asphalt, cast-iron architecture, and bold espresso. |
+| **Roasted Brass** | `#B58E4F` | **The Detail.** Muted vintage metallic for the logo and accents. |
+| **Library Burgundy** | `#6F1A1F` | **The Soul.** A deep, intellectual red that adds warmth and history. |
+| **Oat Milk White** | `#F2EEE4` | **The Atmosphere.** A soft, creamy neutral for backgrounds to keep it "cozy." |
+
+---
+
+## 🖋️ **2. The Editorial Typography**
+* **Playfair Display (Headlines):** High-contrast and elegant. It feels like the masthead of a premium arts magazine.
+* **Karla (Body Text):** Modern, clean, and invisible. It lets the storytelling take center stage.
+
+---
+
+## ✍️ **3. Brand Messaging**
+
+### **The Headline (5 words)**
+> **"Brewing the soul of New York."**
+
+### **"Our Story" (2 sentences)**
+> Math’s Coffee USA is the intersection of a Colombian heart and a New York soul, where every roast is a calculated masterpiece. From the industrial spirit of Williamsburg to the timeless charm of the West Village, we compose the perfect daily ritual for the city’s creative thinkers.
