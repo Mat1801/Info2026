@@ -1,0 +1,19 @@
+**The Value Exchange:**
+In exchange for joining our inner circle, members receive:
+* **The Birthday Equation:** A complimentary signature drink or a *Moelleux au Chocolat* on their special day.
+* **First Access:** Exclusive 48-hour priority to purchase our rarest Colombian micro-lots and seasonal roasts.
+* **After-Hours Invitations:** Access to private "unplugged" jazz sessions and art pop-ups held in our Williamsburg location.
+
+**Data Strategy:**
+We follow a strict **Data Minimization** policy to respect our users' privacy while maximizing business utility:
+1.  **First Name:** To maintain a personal, neighborhood-style connection.
+2.  **Email:** Our primary channel for sending digital rewards and the "First Access" newsletter.
+3.  **Date of Birth:** The essential data point required to automate the birthday reward system and drive foot traffic during the member's birthday month.
+Initial Audit Results:**
+* **Performance Score:** []
+* **The Biggest Offender:** Unoptimized images in legacy formats (JPG/PNG).
+* **The Impact:** The high-resolution "Hero" photography (capturing the West Village aesthetic) created a high **Largest Contentful Paint (LCP)** delay, slowing down the perceived load time for the user.
+
+**The Solution: Image Optimization (WebP)**
+To improve the performance without sacrificing the "Soul of New York" visual quality, I implemented the following:
+1.  **Format Conversion:I converted all pics into **WebP** format. 
