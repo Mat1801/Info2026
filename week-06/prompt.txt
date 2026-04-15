@@ -1,0 +1,8 @@
+1. PERSONA GENERATION PROMPT:
+"I want to create a brand persona for my café, Math's Coffee USA. I imagine it as a New Yorker with a real 'Big Apple' vibe who loves the city and fits right in. He loves fashion, but not too chic—more like the Williamsburg aesthetic. Value quality and create a mix of Williamsburg and West Village refined soul. Write a brand persona based on this, including his personality, style, and a motto."
+
+2. UI GENERATION PROMPT:
+"Suggest a 3-color palette for Math's Coffee in NYC based on the 'Williamsburg meets West Village' vibe. Provide HEX codes. Recommend two Google Fonts that pair well for this modern, aesthetic, and cozy coffee place (one for headlines, one for body text). Write a catchy 5-word headline starting with 'Brewing...'.
+
+3. IMAGE GENERATION PROMPT:
+"Generate a high-quality Hero image for Math's Coffee USA that matches the brand persona. The scene should be a cozy, artistic New York cafe interior with a 'West Village meets Williamsburg' aesthetic."
