@@ -1,0 +1,3 @@
+It takes 7 clicks for someone to go from homepage until completing the order
+My variable product is a bundle that allows you to choose the strentgh of the coffee beans from weak to strong
+When I ordered my limited edition kit the inventory went from 5 available to 4 left
