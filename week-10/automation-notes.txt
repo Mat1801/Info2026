@@ -1,0 +1,14 @@
+The Coupon
+Coupon Code: NEWCOMERS
+
+Business Logic: This is a 15% off discount designed to get new customers to make their first purchase. By offering a small gift to "Newcomers," we lower the price barrier and start a relationship with them immediately.
+
+The Automation
+Subject Line: "Hi, new coffee lover! ☕️"
+
+Description: This is a Welcome Email sent to people who just joined our list. It welcomes them to the community and promises to keep them updated on everything happening at their favorite shop.
+
+The Data Strategy
+How to use it: I will use this info to send Personalized Emails.
+
+Example: If a customer says they love "sweet bites," I won't waste their time with milk ads; instead, I’ll email them when we have a new bite in stock. If they like "Lattes," I’ll tell them about our new Oat Milk options.
